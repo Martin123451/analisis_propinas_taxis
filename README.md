@@ -19,7 +19,7 @@ Asegúrate de tener instalado Python 3.7 o superior. Los paquetes necesarios est
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Configuración del Entorno
 
 1. **Clona el repositorio**:
